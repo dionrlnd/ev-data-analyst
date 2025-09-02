@@ -19,4 +19,4 @@ This project analyzes the Electric Vehicle Population dataset (Washington State)
 ## Tools
 - Excel 365
 - PivotTable, PivotChart
-- Excel Functions: TRIM, CONCAT, LEFT, RIGHT, MID, VLOOKUP, IFERROR
+- Excel Functions: TRIM, CONCAT, VLOOKUP
