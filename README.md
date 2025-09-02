@@ -1,9 +1,9 @@
-# Electric Vehicle Population Analysis 🚗⚡
+# Electric Vehicle Population Analysis
 
 This project analyzes the Electric Vehicle Population dataset (Washington State) using Microsoft Excel.
 
 ## Contents
-- Data Cleaning (TRIM, PROPER, VLOOKUP, IFERROR)
+- Data Cleaning (TRIM, PROPER, VLOOKUP)
 - Feature Engineering (Full Model Name, Range Category)
 - PivotTable Insights:
   1. Market share per brand
